@@ -43,4 +43,4 @@ HTML5/CSS3 (UI Structure)
 
 JavaScript (ES6)
 
-![App Screenshot](./Images/Screenshot.png)
+![App Screenshot](./public/Images/Screenshot.png)
